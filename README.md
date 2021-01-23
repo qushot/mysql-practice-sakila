@@ -1,5 +1,5 @@
 # mysql-practice-sakila
-MySQL練習用のDockerコンテナ。公式データサンプルのSakilaを読み込む。
+MySQL練習用のDockerコンテナ。公式データサンプルの[Sakila](https://dev.mysql.com/doc/sakila/en/)を読み込む。
 
 ## 使い方
 
